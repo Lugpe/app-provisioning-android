@@ -1,14 +1,14 @@
 <resources>
     <!-- Reply Preference -->
     <string-array name="device_entries">
-        <item>BLE</item>
-        <item>SoftAP</item>
-        <item>Both</item>
+        <item>Bluetooth</item>
+        <item>Wi-Fi</item>
+        <item>Ambos</item>
     </string-array>
 
     <string-array name="device_values">
-        <item>ble</item>
-        <item>softap</item>
-        <item>both</item>
+        <item>bluetooth</item>
+        <item>Wi-Fi</item>
+        <item>ambos</item>
     </string-array>
 </resources>
